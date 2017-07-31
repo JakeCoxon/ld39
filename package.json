@@ -1,0 +1,22 @@
+{
+  "name": "ld39",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.10"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mobx": "^3.2.2",
+    "mobx-react": "^4.2.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "redux-saga": "^0.15.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
