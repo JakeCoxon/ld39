@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.cacbacc7.css",
   "main.css.map": "static/css/main.cacbacc7.css.map",
-  "main.js": "static/js/main.6a574343.js",
-  "main.js.map": "static/js/main.6a574343.js.map",
+  "main.js": "static/js/main.50aadffc.js",
+  "main.js.map": "static/js/main.50aadffc.js.map",
   "static/media/1.jpg": "static/media/1.23f491f6.jpg",
   "static/media/1.png": "static/media/1.cfc3c6ad.png",
   "static/media/2.jpg": "static/media/2.121dec27.jpg",
@@ -21,6 +21,6 @@
   "static/media/cat.png": "static/media/cat.d49260e9.png",
   "static/media/digi_plink.wav": "static/media/digi_plink.bd34c76a.wav",
   "static/media/emoji.png": "static/media/emoji.b3d44b79.png",
-  "static/media/iphone6.png": "static/media/iphone6.d31d12ee.png",
+  "static/media/phone.png": "static/media/phone.c072a36f.png",
   "static/media/pop_drip.wav": "static/media/pop_drip.854bb52e.wav"
 }
